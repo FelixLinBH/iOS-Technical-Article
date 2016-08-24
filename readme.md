@@ -20,3 +20,6 @@ Record some article about iOS technical...
 
 * [**Enums as configuration: the anti-pattern**](
 http://www.jessesquires.com/enums-as-configs/)
+
+* [**Optimistic Model**](
+https://stanfy.com/blog/do-not-let-your-user-see-spinners/)
