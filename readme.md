@@ -23,3 +23,6 @@ http://www.jessesquires.com/enums-as-configs/)
 
 * [**Optimistic Model**](
 https://stanfy.com/blog/do-not-let-your-user-see-spinners/)
+
+* [**MVVM Is Quite Okay at What It Is Supposed to Do**](
+http://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
