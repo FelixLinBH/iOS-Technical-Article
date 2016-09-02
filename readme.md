@@ -30,3 +30,7 @@ http://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
 ##GCD
 
 * [**Building Responsive and Efficient Apps with GCD**](https://developer.apple.com/videos/play/wwdc2015/718/)
+
+##Tips
+
+* [**The iOS bug chase**](http://allegro.tech/2016/08/the-ios-bug-chase.html)
