@@ -27,6 +27,10 @@ https://stanfy.com/blog/do-not-let-your-user-see-spinners/)
 * [**MVVM Is Quite Okay at What It Is Supposed to Do**](
 http://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
 
+##Pattern
+
+* [**Pattern Matching in Swift**](https://www.raywenderlich.com/134844/pattern-matching-in-swift)
+
 ##GCD
 
 * [**Building Responsive and Efficient Apps with GCD**](https://developer.apple.com/videos/play/wwdc2015/718/)
