@@ -27,6 +27,11 @@ https://stanfy.com/blog/do-not-let-your-user-see-spinners/)
 * [**MVVM Is Quite Okay at What It Is Supposed to Do**](
 http://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
 
+* [**MVVM-C A simple way to navigate**](
+http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
+
+
+
 ##Pattern
 
 * [**Pattern Matching in Swift**](https://www.raywenderlich.com/134844/pattern-matching-in-swift)
