@@ -45,3 +45,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**The iOS bug chase**](http://allegro.tech/2016/08/the-ios-bug-chase.html)
 
 * [**Measurements and Units in Foundation**](https://oleb.net/blog/2016/07/measurements-and-units/)
+
+* [**Result-types**](http://www.cocoawithlove.com/blog/2016/08/21/result-types-part-one.html)
