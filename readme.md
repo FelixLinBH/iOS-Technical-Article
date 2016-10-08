@@ -36,6 +36,8 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 
 * [**Pattern Matching in Swift**](https://www.raywenderlich.com/134844/pattern-matching-in-swift)
 
+* [**8 Patterns to Help You Destroy Massive View Controller**](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
+
 ##GCD
 
 * [**Building Responsive and Efficient Apps with GCD**](https://developer.apple.com/videos/play/wwdc2015/718/)
