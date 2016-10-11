@@ -53,3 +53,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Writing good bug reports**](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
 
 * [**Async Await**](http://khanlou.com/2016/09/async-await/)
+
+* [**Code review**](http://www.slideshare.net/nnja/how-to-successfully-grow-a-code-review-culture?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_63)
