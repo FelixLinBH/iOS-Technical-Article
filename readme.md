@@ -30,7 +30,7 @@ http://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/)
 * [**MVVM-C A simple way to navigate**](
 http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 
-
+* [**Slicing**](http://khanlou.com/2016/10/slicing/)
 
 ##Pattern
 
