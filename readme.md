@@ -59,3 +59,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Pre-commit**](http://pre-commit.com/?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_63)
 
 * [**The 10 Most Common Mistakes**](https://www.toptal.com/ios/top-ios-development-mistakes)
+
+* [**Technical-Knowledge-debt**](http://modocache.io/technical-knowledge-debt)
