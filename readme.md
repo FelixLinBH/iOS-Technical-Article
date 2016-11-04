@@ -61,3 +61,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**The 10 Most Common Mistakes**](https://www.toptal.com/ios/top-ios-development-mistakes)
 
 * [**Technical-Knowledge-debt**](http://modocache.io/technical-knowledge-debt)
+
+* [**Unowned or Weak? Lifetime and Performance**](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
