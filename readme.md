@@ -63,3 +63,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Technical-Knowledge-debt**](http://modocache.io/technical-knowledge-debt)
 
 * [**Unowned or Weak? Lifetime and Performance**](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
+
+* [**Better Xcode Run Script Build Phases**](http://www.mokacoding.com/blog/better-build-phase-scripts/)
