@@ -32,6 +32,8 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 
 * [**Slicing**](http://khanlou.com/2016/10/slicing/)
 
+* [**Mvvm Swift3**](http://www.bensnider.com/refactoring-an-mvvm-app-to-swift-3.html)
+
 ##Pattern
 
 * [**Pattern Matching in Swift**](https://www.raywenderlich.com/134844/pattern-matching-in-swift)
