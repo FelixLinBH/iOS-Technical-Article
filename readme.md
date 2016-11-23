@@ -44,6 +44,10 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 
 * [**Building Responsive and Efficient Apps with GCD**](https://developer.apple.com/videos/play/wwdc2015/718/)
 
+##Security
+
+* [**Kicking Off App Security**](http://blog.prolificinteractive.com/2016/11/15/kicking-off-app-security/)
+
 ##Tips
 
 * [**The iOS bug chase**](http://allegro.tech/2016/08/the-ios-bug-chase.html)
