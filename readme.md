@@ -9,7 +9,7 @@ Record some article about iOS technical...
 * [**Arc Best Practices**](http://amattn.com/p/arc_best_practices.html)
 
 ##Animation
-sx
+
 * [**CATransition include private api**](http://iphonedevwiki.net/index.php/CATransition)
 
 ##Architecture 
@@ -32,6 +32,8 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 
 * [**Slicing**](http://khanlou.com/2016/10/slicing/)
 
+* [**Mvvm Swift3**](http://www.bensnider.com/refactoring-an-mvvm-app-to-swift-3.html)
+
 * [**Protocol Oriented Programming is Not a Silver Bullet**](http://chris.eidhof.nl/post/protocol-oriented-programming/)
 
 ##Pattern
@@ -43,6 +45,10 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 ##GCD
 
 * [**Building Responsive and Efficient Apps with GCD**](https://developer.apple.com/videos/play/wwdc2015/718/)
+
+##Security
+
+* [**Kicking Off App Security**](http://blog.prolificinteractive.com/2016/11/15/kicking-off-app-security/)
 
 ##Tips
 
@@ -57,3 +63,15 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Async Await**](http://khanlou.com/2016/09/async-await/)
 
 * [**Code review**](http://www.slideshare.net/nnja/how-to-successfully-grow-a-code-review-culture?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_63)
+
+* [**Pre-commit**](http://pre-commit.com/?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_63)
+
+* [**The 10 Most Common Mistakes**](https://www.toptal.com/ios/top-ios-development-mistakes)
+
+* [**Technical-Knowledge-debt**](http://modocache.io/technical-knowledge-debt)
+
+* [**Unowned or Weak? Lifetime and Performance**](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
+
+* [**Better Xcode Run Script Build Phases**](http://www.mokacoding.com/blog/better-build-phase-scripts/)
+
+* [**Swift struct**](https://ninjapro.wordpress.com/2016/10/28/should-i-use-struct-in-swift/)
