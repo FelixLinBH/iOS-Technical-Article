@@ -79,3 +79,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Better Xcode Run Script Build Phases**](http://www.mokacoding.com/blog/better-build-phase-scripts/)
 
 * [**Swift struct**](https://ninjapro.wordpress.com/2016/10/28/should-i-use-struct-in-swift/)
+
+* [**Wrapping C Code Within a Single Swift Package**](http://www.bensnider.com/wrapping-c-code-within-a-single-swift-package.html)
