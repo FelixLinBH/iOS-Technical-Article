@@ -81,3 +81,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Swift struct**](https://ninjapro.wordpress.com/2016/10/28/should-i-use-struct-in-swift/)
 
 * [**Wrapping C Code Within a Single Swift Package**](http://www.bensnider.com/wrapping-c-code-within-a-single-swift-package.html)
+
+* [**COMPOSITE VALIDATORS – REFINED**](https://owensd.io/2016/11/28/composite-validators-refined/)
