@@ -85,3 +85,7 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**COMPOSITE VALIDATORS – REFINED**](https://owensd.io/2016/11/28/composite-validators-refined/)
 
 * [**Better UICollectionViews**](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews)
+
+* [**What is reactive programming and why should I use it?**](https://www.cocoawithlove.com/blog/reactive-programming-what-and-why.html)
+
+* [**Method Dispatch in Swift**](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
