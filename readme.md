@@ -83,3 +83,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Wrapping C Code Within a Single Swift Package**](http://www.bensnider.com/wrapping-c-code-within-a-single-swift-package.html)
 
 * [**COMPOSITE VALIDATORS – REFINED**](https://owensd.io/2016/11/28/composite-validators-refined/)
+
+* [**Better UICollectionViews**](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews)
