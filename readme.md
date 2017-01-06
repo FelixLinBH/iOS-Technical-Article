@@ -89,3 +89,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**What is reactive programming and why should I use it?**](https://www.cocoawithlove.com/blog/reactive-programming-what-and-why.html)
 
 * [**Method Dispatch in Swift**](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
+
+* [**3d touch**](http://www.thinkandbuild.it/custom-controls-3d-touch-confirm/)
