@@ -91,3 +91,5 @@ http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate//)
 * [**Method Dispatch in Swift**](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
 
 * [**3d touch**](http://www.thinkandbuild.it/custom-controls-3d-touch-confirm/)
+
+* [**Swift Three Quick Tips**](http://www.figure.ink/blog/2016/12/30/brlc8hxfkulf0dm23uk1t1wz0vv45h)
